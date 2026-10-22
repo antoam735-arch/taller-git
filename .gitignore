@@ -1,0 +1,9 @@
+# Secretos
+secreto.txt
+.env
+
+# Registros
+*.log
+
+# Copias locales
+copias/
